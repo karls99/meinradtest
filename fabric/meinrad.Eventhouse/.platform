@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventhouse",
+    "displayName": "meinrad",
+    "description": "meinrad"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "05694065-fc18-a35c-4487-8559eb9c4969"
+  }
+}

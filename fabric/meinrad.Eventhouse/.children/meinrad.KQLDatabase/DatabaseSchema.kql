@@ -1,0 +1,5 @@
+// KQL script
+// Use management commands in this script to configure your database items, such as tables, functions, materialized views, and more.
+
+
+.create-merge table test (DatabaseName:string, PersistentStorage:string, Version:string, IsCurrent:bool, DatabaseAccessMode:string, PrettyName:string, ReservedSlot1:bool, DatabaseId:guid, InTransitionTo:string, SuspensionState:string) 
